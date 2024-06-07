@@ -5,7 +5,7 @@
     left: 0;
     z-index: var(--z-fixed);
     background-color: var(--container-color);
-    padding: 1.5rem;
+    padding: 1rem;
 }
 
 .nav {
